@@ -1,6 +1,10 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
 
+  def impressum
+    
+  end
+
   def index
     @subdomain = request.subdomains.to_a[0]
     id = params[:id] || @subdomain
