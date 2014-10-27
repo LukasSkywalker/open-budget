@@ -29,12 +29,12 @@ excel('input.xlsx', function(err, arr) {
   data = arr;
   var out = [];
   var i = 1;
-  var baseYear = 2013;
+  var baseYear = 2015;
   
   var years = [];
   
-  for(var col = 9; col < data[0].length; col+=4) {
-    var year = baseYear - (col - 9) / 4;
+  for(var col = 5; col < 9; col+=4) {
+    var year = baseYear - (col - 5) / 2;
     years.push(year);
   }
   
@@ -48,34 +48,34 @@ excel('input.xlsx', function(err, arr) {
     var superCatOut = out[superCat];
     
     if(superCatOut == undefined) {
-      var superCatOut = {id: code.split('.')[0], name: superCat, gross_cost: { budgets: {}, accounts: {}}, revenue: { budgets: {}, accounts: {}}, children: []}
+      var superCatOut = {id: code.split('.')[0], name: superCat, gross_cost: { budgets: {}}, revenue: { budgets: {}}, children: []}
       
       for(var j = 0; j < years.length; j++) {
         var year = years[j];
-        superCatOut.gross_cost.accounts[year] = 0;
-        superCatOut.revenue.accounts[year] = 0;
-        superCatOut.gross_cost.budgets[year] = 0;
-        superCatOut.revenue.budgets[year] = 0;
+        superCatOut.gross_cost.budgets[2015] = 0;
+        superCatOut.revenue.budgets[2015] = 0;
+        superCatOut.gross_cost.budgets[2014] = 0;
+        superCatOut.revenue.budgets[2014] = 0;
       }
     }
     
     
 
-    var childOut = {id: code, name: subCat, gross_cost: { budgets: {}, accounts: {}}, revenue: { budgets: {}, accounts: {}}}
+    var childOut = {id: code, name: subCat, gross_cost: { budgets: {}}, revenue: { budgets: {}}}
     
     var sums = {};
     
-    for(var col = 9; col < row.length; col+=4) {
-      var year = baseYear - (col - 9) / 4;
-      childOut.gross_cost.accounts[year] = parseInt(row[col]) || 0;
-      childOut.revenue.accounts[year] = parseInt(row[col+1]) || 0;
-      childOut.gross_cost.budgets[year] = parseInt(row[col+2]) || 0;
-      childOut.revenue.budgets[year] = parseInt(row[col+3]) || 0;
+    for(var col = 5; col < 9; col+=4) {
+      var year = baseYear - (col - 5) / 2;
+      childOut.gross_cost.budgets[2015] = parseInt(row[col]) || 0;
+      childOut.revenue.budgets[2015] = parseInt(row[col+1]) || 0;
+      childOut.gross_cost.budgets[2014] = parseInt(row[col+2]) || 0;
+      childOut.revenue.budgets[2014] = parseInt(row[col+3]) || 0;
 
-      superCatOut.gross_cost.accounts[year] += childOut.gross_cost.accounts[year];
-      superCatOut.revenue.accounts[year] += childOut.revenue.accounts[year];
-      superCatOut.gross_cost.budgets[year] += childOut.gross_cost.budgets[year];
-      superCatOut.revenue.budgets[year] += childOut.revenue.budgets[year];
+      superCatOut.gross_cost.budgets[2015] += childOut.gross_cost.budgets[2015];
+      superCatOut.revenue.budgets[2015] += childOut.revenue.budgets[2015];
+      superCatOut.gross_cost.budgets[2014] += childOut.gross_cost.budgets[2014];
+      superCatOut.revenue.budgets[2014] += childOut.revenue.budgets[2014];
     } 
     superCatOut.children.push(childOut);
 
