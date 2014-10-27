@@ -1,8 +1,8 @@
 {
     "hierarchy": ["Direktion", "Dienststelle"],
-    "page_title": "Budget Brig-Glis - Städtisches Produktegruppen-Budget 2015",
+    "page_title": "Budget Stadtgemeinde Brig-Glis - Städtisches Produktegruppen-Budget 2015",
     "description": "Die Ausgaben und Einnahmen des Briger Produktegruppen-Budget 2013 in Kreisen visualisiert. Spielerisch und einfach zu verstehen.",
-    "h1": "Stadt Brig",
+    "h1": "Stadtgemeinde Brig-Glis",
     "h2": "Produktegruppen-Budget 2015",
     "data_link": "https://www.brig-glis.ch/stadtinfo/files27//infobudget38_brig.pdf",
     "data_title": "Offizielles Budget-PDF",
