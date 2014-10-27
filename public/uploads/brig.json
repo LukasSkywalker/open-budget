@@ -1,0 +1,1926 @@
+[
+    {
+        "id": "1",
+        "name": "Allgemeine Verwaltung",
+        "gross_cost": {
+            "budgets": {
+                "2014": 3877000,
+                "2015": 4256000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 524000,
+                "2015": 527000
+            }
+        },
+        "children": [
+            {
+                "id": "1.1",
+                "name": "Legislative",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 66000,
+                        "2015": 81000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "1.2",
+                "name": "Exekutive",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 521000,
+                        "2015": 879000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 25000,
+                        "2015": 25000
+                    }
+                }
+            },
+            {
+                "id": "1.3",
+                "name": "Finanzen und Informatik",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1273500,
+                        "2015": 1256500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 250500,
+                        "2015": 255500
+                    }
+                }
+            },
+            {
+                "id": "1.4",
+                "name": "Allgemeine Verwaltung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 879000,
+                        "2015": 870000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 12000,
+                        "2015": 10000
+                    }
+                }
+            },
+            {
+                "id": "1.5",
+                "name": "Bau- und Liegenschaftsverwaltung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 773500,
+                        "2015": 806500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 206500,
+                        "2015": 206500
+                    }
+                }
+            },
+            {
+                "id": "1.6",
+                "name": "Leistungen für Pensionierte",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 5000,
+                        "2015": 5000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "1.7",
+                "name": "Verwaltungsliegenschaft Schloss  \\(Gemeinde 60%, Gericht 15%, Ausstellung 15%, Institute 10%)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 359000,
+                        "2015": 358000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 30000,
+                        "2015": 30000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Öffentliche Sicherheit",
+        "gross_cost": {
+            "budgets": {
+                "2014": 3702000,
+                "2015": 3805600
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 2183500,
+                "2015": 2157500
+            }
+        },
+        "children": [
+            {
+                "id": "2.1",
+                "name": "Grundbuch",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 187500,
+                        "2015": 191000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 231000,
+                        "2015": 231000
+                    }
+                }
+            },
+            {
+                "id": "2.2",
+                "name": "Übrige Rechtsaufsicht",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 6000,
+                        "2015": 6000
+                    }
+                }
+            },
+            {
+                "id": "2.3",
+                "name": "Einwohner- und Fremdenkontrolle",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 286500,
+                        "2015": 294500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 229000,
+                        "2015": 231000
+                    }
+                }
+            },
+            {
+                "id": "2.4",
+                "name": "Gemeindepolizei",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1496000,
+                        "2015": 1548000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 565000,
+                        "2015": 565000
+                    }
+                }
+            },
+            {
+                "id": "2.5",
+                "name": "Sicherheit",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 92000,
+                        "2015": 95000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "2.6",
+                "name": "Gemeinderichteramt",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 14000,
+                        "2015": 15600
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 4000,
+                        "2015": 6000
+                    }
+                }
+            },
+            {
+                "id": "2.7",
+                "name": "Bezirksgericht",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 2000,
+                        "2015": 1000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "2.8",
+                "name": "Kindes- und Erwachsenenschutzbehörde",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 405000,
+                        "2015": 405000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 175000,
+                        "2015": 165000
+                    }
+                }
+            },
+            {
+                "id": "2.9",
+                "name": "Feuerwehr",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 621000,
+                        "2015": 611000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 420000,
+                        "2015": 380000
+                    }
+                }
+            },
+            {
+                "id": "2.10",
+                "name": "Militär",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 24000,
+                        "2015": 24000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 11000,
+                        "2015": 11000
+                    }
+                }
+            },
+            {
+                "id": "2.11",
+                "name": "Zivilschutzorganisation Region Brig",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 529000,
+                        "2015": 559000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 529000,
+                        "2015": 559000
+                    }
+                }
+            },
+            {
+                "id": "2.12",
+                "name": "Zivilschutz und kommunaler Führungsstab Brig",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 45000,
+                        "2015": 61500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 13500,
+                        "2015": 3500
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Unterrichtswesen - Bildung",
+        "gross_cost": {
+            "budgets": {
+                "2014": 8611500,
+                "2015": 8577000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 727500,
+                "2015": 775500
+            }
+        },
+        "children": [
+            {
+                "id": "3.1",
+                "name": "Kindergarten",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 829000,
+                        "2015": 822500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1000,
+                        "2015": 1000
+                    }
+                }
+            },
+            {
+                "id": "3.2",
+                "name": "Primarschule",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 3319000,
+                        "2015": 3268000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 28500,
+                        "2015": 35000
+                    }
+                }
+            },
+            {
+                "id": "3.3",
+                "name": "Orientierungsschule",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1085000,
+                        "2015": 1140000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "3.4",
+                "name": "Orientierungsschule (Gemeindeverband)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1131000,
+                        "2015": 1129000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 350000,
+                        "2015": 345000
+                    }
+                }
+            },
+            {
+                "id": "3.5",
+                "name": "Mittelschulen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1000,
+                        "2015": 25000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 12000
+                    }
+                }
+            },
+            {
+                "id": "3.6",
+                "name": "Sonderschulen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 204000,
+                        "2015": 197000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 42000,
+                        "2015": 45000
+                    }
+                }
+            },
+            {
+                "id": "3.7",
+                "name": "Übriges berufliches Bildungswesen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 240000,
+                        "2015": 190000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 80000,
+                        "2015": 62500
+                    }
+                }
+            },
+            {
+                "id": "3.8",
+                "name": "Fachhochschulen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 690000,
+                        "2015": 700000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "3.9",
+                "name": "Übriges im Bereich tertiäre Bildung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "3.10",
+                "name": "Universitäten und Forschung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 280000,
+                        "2015": 282000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "3.11",
+                "name": "Schuldirektion",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 831500,
+                        "2015": 822500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 226000,
+                        "2015": 275000
+                    }
+                }
+            },
+            {
+                "id": "3.12",
+                "name": "Erwachsenenbildung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1000,
+                        "2015": 1000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Kultur - Freizeit - Kultus",
+        "gross_cost": {
+            "budgets": {
+                "2014": 4760100,
+                "2015": 4880600
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 377700,
+                "2015": 375700
+            }
+        },
+        "children": [
+            {
+                "id": "4.1",
+                "name": "Bibliotheken",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 505500,
+                        "2015": 559500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 70000,
+                        "2015": 70000
+                    }
+                }
+            },
+            {
+                "id": "4.2",
+                "name": "Museen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 60500,
+                        "2015": 64000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1500,
+                        "2015": 1500
+                    }
+                }
+            },
+            {
+                "id": "4.3",
+                "name": "Musikschulen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 56000,
+                        "2015": 56000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.4",
+                "name": "Kulturgebäude (Kunsthaus,   Antoniushaus,  Bellwaldhaus, alte Simplonstrasse 31, 35, und 37)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 95000,
+                        "2015": 98000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 80500,
+                        "2015": 80500
+                    }
+                }
+            },
+            {
+                "id": "4.5",
+                "name": "Simplonhalle",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 195000,
+                        "2015": 193500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 137500,
+                        "2015": 137500
+                    }
+                }
+            },
+            {
+                "id": "4.6",
+                "name": "Vereinslokalitäten",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 99500,
+                        "2015": 78500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1200,
+                        "2015": 1200
+                    }
+                }
+            },
+            {
+                "id": "4.7",
+                "name": "Übrige Kulturförderung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 614000,
+                        "2015": 603500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 5000,
+                        "2015": 3000
+                    }
+                }
+            },
+            {
+                "id": "4.8",
+                "name": "Denkmalpflege und Heimatschutz",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 100,
+                        "2015": 100
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.9",
+                "name": "Parkanlagen und Wanderwege",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1032000,
+                        "2015": 1038000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 77000,
+                        "2015": 77000
+                    }
+                }
+            },
+            {
+                "id": "4.10",
+                "name": "Spiel und Sport",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 526500,
+                        "2015": 616500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 5000,
+                        "2015": 5000
+                    }
+                }
+            },
+            {
+                "id": "4.11",
+                "name": "Schwimmbad Geschina",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 176000,
+                        "2015": 168000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.12",
+                "name": "Nationales Leistungszentrum für Schneesport",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 100000,
+                        "2015": 100000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.13",
+                "name": "Ferienpass",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 5000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.14",
+                "name": "Römisch-katholische Kirche",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1200000,
+                        "2015": 1200000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "4.15",
+                "name": "Evangelisch-refomierte Kirche",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 100000,
+                        "2015": 100000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Gesundheit",
+        "gross_cost": {
+            "budgets": {
+                "2014": 1056000,
+                "2015": 934000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 0,
+                "2015": 0
+            }
+        },
+        "children": [
+            {
+                "id": "5.1",
+                "name": "Sozialmedizinisches Regionalzentrum",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 850000,
+                        "2015": 675000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "5.2",
+                "name": "Krankheitsbekämpfung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 4000,
+                        "2015": 2000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "5.3",
+                "name": "Schulzahnärztliche Pflege",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 180000,
+                        "2015": 235000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "5.4",
+                "name": "Lebensmittelkontrolle",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "5.5",
+                "name": "Übriges Gesundheitswesen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 22000,
+                        "2015": 22000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Soziale Wohlfahrt",
+        "gross_cost": {
+            "budgets": {
+                "2014": 4249000,
+                "2015": 4749000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 169000,
+                "2015": 214000
+            }
+        },
+        "children": [
+            {
+                "id": "6.1",
+                "name": "AHV-Gemeindezweigstelle",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 33000,
+                        "2015": 33000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 33000,
+                        "2015": 33000
+                    }
+                }
+            },
+            {
+                "id": "6.2",
+                "name": "Ergänzungsleistungen zur Alters- und Invalidenversicherung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 710000,
+                        "2015": 720000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.3",
+                "name": "Jugendschutz, Veranstaltungen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 213000,
+                        "2015": 183000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.4",
+                "name": "Kinderheime und Kinderkrippen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 354500,
+                        "2015": 424500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.5",
+                "name": "Jugendarbeitsstelle Briglina",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 317000,
+                        "2015": 313000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 126000,
+                        "2015": 126000
+                    }
+                }
+            },
+            {
+                "id": "6.6",
+                "name": "Behinderte",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1280000,
+                        "2015": 1310000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.7",
+                "name": "Alters- und Pflegeheim Englischgruss",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 300000,
+                        "2015": 620000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.8",
+                "name": "Individuelle Fürsorge und Sozialhilfe",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 775500,
+                        "2015": 892500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 10000,
+                        "2015": 55000
+                    }
+                }
+            },
+            {
+                "id": "6.9",
+                "name": "Kantonaler Beschäftigungsfonds",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 255000,
+                        "2015": 208000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.10",
+                "name": "Übrige Fürsorge",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 34000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.11",
+                "name": "Hilfsaktionen im Inland",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 5000,
+                        "2015": 5000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "6.12",
+                "name": "Hilfsaktionen im Ausland",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 6000,
+                        "2015": 6000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Verkehr",
+        "gross_cost": {
+            "budgets": {
+                "2014": 5309500,
+                "2015": 5232500
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 2074500,
+                "2015": 2093500
+            }
+        },
+        "children": [
+            {
+                "id": "7.1",
+                "name": "Kantonsstrassen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 750000,
+                        "2015": 630000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "7.2",
+                "name": "Gemeindestrassennetz",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 887000,
+                        "2015": 887000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 35000,
+                        "2015": 35000
+                    }
+                }
+            },
+            {
+                "id": "7.3",
+                "name": "Parkplätze, Parkuhren und Parkhallen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 180000,
+                        "2015": 190000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 920000,
+                        "2015": 890000
+                    }
+                }
+            },
+            {
+                "id": "7.4",
+                "name": "Parkhaus Altstadt",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 196500,
+                        "2015": 206000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 480000,
+                        "2015": 480000
+                    }
+                }
+            },
+            {
+                "id": "7.5",
+                "name": "Parkhaus Bahnhof",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 107500,
+                        "2015": 125500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 202000,
+                        "2015": 251000
+                    }
+                }
+            },
+            {
+                "id": "7.6",
+                "name": "Werkhof",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1491500,
+                        "2015": 1492000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 65000,
+                        "2015": 65000
+                    }
+                }
+            },
+            {
+                "id": "7.7",
+                "name": "Regionalverkehrsbetriebe",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 800000,
+                        "2015": 800000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "7.8",
+                "name": "Nahverkehrsbetriebe",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 770000,
+                        "2015": 775000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 242500,
+                        "2015": 242500
+                    }
+                }
+            },
+            {
+                "id": "7.9",
+                "name": "Übriger Verkehr",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 127000,
+                        "2015": 127000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 130000,
+                        "2015": 130000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Umwelt - Raumordnung",
+        "gross_cost": {
+            "budgets": {
+                "2014": 4764900,
+                "2015": 4721000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 4391400,
+                "2015": 4249000
+            }
+        },
+        "children": [
+            {
+                "id": "8.1",
+                "name": "Wasserversorgung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1941400,
+                        "2015": 1941500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1941400,
+                        "2015": 1941500
+                    }
+                }
+            },
+            {
+                "id": "8.2",
+                "name": "Abwasserentsorgung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1055000,
+                        "2015": 867500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1055000,
+                        "2015": 867500
+                    }
+                }
+            },
+            {
+                "id": "8.3",
+                "name": "Abfallbewirtschaftung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 1222500,
+                        "2015": 1288000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1115000,
+                        "2015": 1160000
+                    }
+                }
+            },
+            {
+                "id": "8.4",
+                "name": "Schlachthaus",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 4000,
+                        "2015": 4000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1000,
+                        "2015": 1000
+                    }
+                }
+            },
+            {
+                "id": "8.5",
+                "name": "Friedhöfe",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 186000,
+                        "2015": 196000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 95000,
+                        "2015": 95000
+                    }
+                }
+            },
+            {
+                "id": "8.6",
+                "name": "Gewässerverbauungen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 140000,
+                        "2015": 140000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 50000,
+                        "2015": 50000
+                    }
+                }
+            },
+            {
+                "id": "8.7",
+                "name": "Lawinenverbauungen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "8.8",
+                "name": "Felssicherungen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 20000,
+                        "2015": 20000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "8.9",
+                "name": "Öffentliche Toiletten",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 15500,
+                        "2015": 15500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "8.10",
+                "name": "Tierkörperbeseitigung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 34500,
+                        "2015": 34500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 30000,
+                        "2015": 30000
+                    }
+                }
+            },
+            {
+                "id": "8.11",
+                "name": "Übriger Umweltschutz",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 31000,
+                        "2015": 31000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 104000,
+                        "2015": 104000
+                    }
+                }
+            },
+            {
+                "id": "8.12",
+                "name": "Raumplanung",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 115000,
+                        "2015": 183000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Volkswirtschaft",
+        "gross_cost": {
+            "budgets": {
+                "2014": 1095100,
+                "2015": 1171600
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 709500,
+                "2015": 717000
+            }
+        },
+        "children": [
+            {
+                "id": "9.1",
+                "name": "Landwirtschaft",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 123500,
+                        "2015": 123500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 2500,
+                        "2015": 2500
+                    }
+                }
+            },
+            {
+                "id": "9.2",
+                "name": "Forstwirtschaft",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 161500,
+                        "2015": 162500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "9.3",
+                "name": "Tourismus",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 240000,
+                        "2015": 175000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 65000,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "9.4",
+                "name": "Industrie, Gewerbe und Handel",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 92000,
+                        "2015": 92000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "9.5",
+                "name": "Fernwärme",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 175000,
+                        "2015": 175000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 80000,
+                        "2015": 85000
+                    }
+                }
+            },
+            {
+                "id": "9.6",
+                "name": "Kraftwerk Riedji",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 300000,
+                        "2015": 430000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 560000,
+                        "2015": 625000
+                    }
+                }
+            },
+            {
+                "id": "9.7",
+                "name": "Energie",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 3100,
+                        "2015": 13600
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 2000,
+                        "2015": 4500
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Finanzen - Steuern",
+        "gross_cost": {
+            "budgets": {
+                "2014": 11319500,
+                "2015": 11502000
+            }
+        },
+        "revenue": {
+            "budgets": {
+                "2014": 38394300,
+                "2015": 39308100
+            }
+        },
+        "children": [
+            {
+                "id": "10.1",
+                "name": "Steuern natürliche Personen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 635000,
+                        "2015": 585000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 29585000,
+                        "2015": 30265000
+                    }
+                }
+            },
+            {
+                "id": "10.2",
+                "name": "Steuern juristische Personen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 35000,
+                        "2015": 20000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 4901000,
+                        "2015": 5151000
+                    }
+                }
+            },
+            {
+                "id": "10.3",
+                "name": "Andere Steuern",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 100000,
+                        "2015": 100000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "10.4",
+                "name": "Finanzausgleich",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1500,
+                        "2015": 2600
+                    }
+                }
+            },
+            {
+                "id": "10.5",
+                "name": "Anteil Erträge Bund",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 2000
+                    }
+                }
+            },
+            {
+                "id": "10.6",
+                "name": "Gemeindeanteile an Regalien und Patente",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 2000,
+                        "2015": 2000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 437000,
+                        "2015": 446500
+                    }
+                }
+            },
+            {
+                "id": "10.7",
+                "name": "Kapitaldienst",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 787000,
+                        "2015": 751500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 831000,
+                        "2015": 801000
+                    }
+                }
+            },
+            {
+                "id": "10.8",
+                "name": "Swisscom-Gebäude (Kanton/Gemeinde)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 825000,
+                        "2015": 825000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 1153000,
+                        "2015": 1152000
+                    }
+                }
+            },
+            {
+                "id": "10.9",
+                "name": "Gebäude U.C. Cesar Ritz AG",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 39000,
+                        "2015": 71000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 395000,
+                        "2015": 395000
+                    }
+                }
+            },
+            {
+                "id": "10.10",
+                "name": "Schulhaus Ost/West (Pädagogische Hochschule)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 102000,
+                        "2015": 98000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 196000,
+                        "2015": 197000
+                    }
+                }
+            },
+            {
+                "id": "10.11",
+                "name": "Altes Polizeigebäude (Pädagogische Hochschule)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 35000,
+                        "2015": 42500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 78500,
+                        "2015": 78500
+                    }
+                }
+            },
+            {
+                "id": "10.12",
+                "name": "Oberbauten Weri",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 15500,
+                        "2015": 15500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 294000,
+                        "2015": 294000
+                    }
+                }
+            },
+            {
+                "id": "10.13",
+                "name": "Zeughausanlagen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 107500,
+                        "2015": 101500
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 196800,
+                        "2015": 195500
+                    }
+                }
+            },
+            {
+                "id": "10.14",
+                "name": "Grundstücke / nicht aufteilbare Aufgaben",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 37000,
+                        "2015": 30000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 135000,
+                        "2015": 135000
+                    }
+                }
+            },
+            {
+                "id": "10.15",
+                "name": "Bürogebäude Nordstrasse 30 (SMZ)",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 45000,
+                        "2015": 52000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 156000,
+                        "2015": 155500
+                    }
+                }
+            },
+            {
+                "id": "10.16",
+                "name": "Fernanda von Stockalperhaus",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 54500,
+                        "2015": 108000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 34500,
+                        "2015": 37500
+                    }
+                }
+            },
+            {
+                "id": "10.17",
+                "name": "Abschreibungen",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 8500000,
+                        "2015": 8700000
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            },
+            {
+                "id": "10.18",
+                "name": "Durchlaufkonti",
+                "gross_cost": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                },
+                "revenue": {
+                    "budgets": {
+                        "2014": 0,
+                        "2015": 0
+                    }
+                }
+            }
+        ]
+    }
+]
