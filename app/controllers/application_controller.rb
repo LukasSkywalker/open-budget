@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
 
   def set_meta
     @subdomain = request.subdomains.to_a[0]
-    @id = params[:id] || @subdomain
+    id = params[:id] || @subdomain
     Rails.logger.info "request budget #{id} subdomain #{@subdomain} subdomains #{request.subdomains.to_s} id #{params[:id]}"
 
     # only allow word chars - no dots and slashes for filepath
@@ -18,6 +18,7 @@ class ApplicationController < ActionController::Base
     if @meta.blank?
       raise ActionController::RoutingError.new('Not Found')
     end
+    @id = id
   end
 
   def impressum
