@@ -1,5 +1,5 @@
 <div id="sidebar">
-  <h1><a href="/<%= params[:id] %>"><%= simple_format(@meta['h1']) %></a></h1>
+  <h1><a href="/"><%= simple_format(@meta['h1']) %></a></h1>
   <h2><%= simple_format(@meta['h2']) %></h2>
   <div>
     <% @meta['impressum'].each do |i| %>
@@ -12,9 +12,9 @@
   <div style="height: 50px"></div>
   <h2><p>Downloads</p></h2>
   <p>
-    <a href="/data/<%= params[:id] %>">JSON-Daten</a>
+    <a href="/data">JSON-Daten</a>
   </p>
   <p>
-    <a href="/source/<%= params[:id] %>">Originaldaten (Excel)</a>
+    <a href="/source">Originaldaten (Excel)</a>
   </p>
 </div>

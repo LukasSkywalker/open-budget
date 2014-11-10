@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
 
   def set_meta
     @subdomain = request.subdomains.to_a[0]
-    id = params[:id] || @subdomain
+    @id = params[:id] || @subdomain
     Rails.logger.info "request budget #{id} subdomain #{@subdomain} subdomains #{request.subdomains.to_s} id #{params[:id]}"
 
     # only allow word chars - no dots and slashes for filepath
@@ -25,11 +25,11 @@ class ApplicationController < ActionController::Base
   end
 
   def file
-    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.json'
+    send_file Dir.pwd + '/app/data/' + @id + '/data.json'
   end
 
   def source
-    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.xlsx'
+    send_file Dir.pwd + '/app/data/' + @id + '/data.xlsx'
   end
 
   def index
