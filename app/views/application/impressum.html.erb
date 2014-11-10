@@ -1,18 +1,20 @@
 <div id="sidebar">
-  <a href="/brig"><h1><p>Stadtgemeinde Brig-Glis</p></h1></a>
-  <h2><p>Produktegruppen-Budget 2015</p></h2> 
-  <ul style="padding-top:50px; list-style-type:none;">
-    <li><a href="http://www.iwi.unibe.ch/content/digitale_nachhaltigkeit/index_ger.html">Forschungsstelle Digitale Nachhaltigkeit</li>
-    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbVWM-FqOeGskgYjcR72Xj8XqP9_2mMK5uhkcsorSCn-5KpyRgKUvkrIS4" style="padding:20px; width:100px;"></a>
-  <li><a href="http://www.zeilenwerk.ch/">Zeilenwerk Webagentur</li>
-  <img src="http://www.zeilenwerk.ch/images/logo_01.png" style="padding:20px; width:100px;"></a>
-  </ul>
+  <h1><a href="/<%= params[:id] %>"><%= simple_format(@meta['h1']) %></a></h1>
+  <h2><%= simple_format(@meta['h2']) %></h2>
+  <div>
+    <% @meta['impressum'].each do |i| %>
+      <div style="padding-bottom: 24px">
+        <%= image_tag i['image'], style: 'height: 150px' %>
+        <p><%= link_to i['name'], i['link'], target: '_blank' %></p>
+      </div>
+    <% end %>
+  </div>
   <div style="height: 50px"></div>
   <h2><p>Downloads</p></h2>
   <p>
-    <a href="/uploads/brig.json">JSON-Daten</a>
+    <a href="/data/<%= params[:id] %>/json">JSON-Daten</a>
   </p>
   <p>
-    <a href="/uploads/brig.xlsx">Originaldaten (Excel)</a>
+    <a href="/data/<%= params[:id] %>/xlsx">Originaldaten (Excel)</a>
   </p>
 </div>

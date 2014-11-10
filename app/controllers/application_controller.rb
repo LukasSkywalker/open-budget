@@ -1,11 +1,9 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
 
-  def impressum
-    
-  end
+  before_filter :set_meta, only: [:index, :impressum, :file]
 
-  def index
+  def set_meta
     @subdomain = request.subdomains.to_a[0]
     id = params[:id] || @subdomain
     Rails.logger.info "request budget #{id} subdomain #{@subdomain} subdomains #{request.subdomains.to_s} id #{params[:id]}"
@@ -20,9 +18,19 @@ class ApplicationController < ActionController::Base
     if @meta.blank?
       raise ActionController::RoutingError.new('Not Found')
     end
+  end
 
-    # automate upload
-    # a.store! File.open('public/data/bern-budget2013.json')
+  def impressum
+    
+  end
+
+  def file
+    ftype = params[:file]
+    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.' + ftype
+  end
+
+  def index
+    
   end
 
   def proxy

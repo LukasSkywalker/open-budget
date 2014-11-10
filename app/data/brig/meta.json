@@ -7,6 +7,7 @@
     "data_link": "https://www.brig-glis.ch/online-dienste/stadtinfo.php",
     "data_title": "Offizielles Budget",
     "uservoice": "VsqIUopbNuYMz7cW5ucG1A",
+    "feedback": "https://www.brig-glis.ch/allgemeines/kontakt.php",
     "gross_cost_label": "Bruttokosten",
     "revenue_label": "Erlöse",
     "data_url": "/data/brig/data.json",
@@ -19,5 +20,15 @@
         "label": "2014",
         "type": "budgets",
         "year": "2014"
-    }
+    },
+    "impressum" : [{
+      "name": "Forschungsstelle Digitale Nachhaltigkeit",
+      "link": "http://www.iwi.unibe.ch/content/digitale_nachhaltigkeit/index_ger.html",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Universit%C3%A4t_Bern.svg"
+      }, {
+        "name": "Zeilenwerk Webagentur",
+        "link": "http://www.zeilenwerk.ch",
+        "image": "http://www.zeilenwerk.ch/images/logo_01.png"
+      }
+    ]
 }

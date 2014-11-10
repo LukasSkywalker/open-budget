@@ -87,15 +87,12 @@ end
     </a>
     <p>
         <a href="<%= @meta['data_link'] %>"><%= @meta['data_title'] %></a>
-        <% if @meta['uservoice'].present? %>
-            -
-            <a href="https://www.brig-glis.ch/allgemeines/kontakt.php">Feedback &amp; Support</a>
-        <% end %>
+        <a href="<%= @meta['feedback'] || 'http://zeilenwerk.ch' %>">Feedback &amp; Support</a>
     </p>
     <p class="links">
         <a href="https://github.com/lukasskywalker/open-budget">Quellcode</a>
              -
-            <a href="/impressum.html">Impressum</a>
+            <a href="/impressum/<%= params[:id] %>.html">Impressum</a>
     </p>
 </div>
 
