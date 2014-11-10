@@ -52,7 +52,7 @@ OpenBudget::Application.routes.draw do
 
   id = /[\w-]+/
   get ':id' => 'application#index', :constraints => {:id => id}
-  get 'impressum/:id' => 'application#impressum', constraints: { id: id }
+  get 'impressum' => 'application#impressum'
   get 'data' => 'application#file'
   get 'source' => 'application#source'
 
