@@ -53,7 +53,7 @@ OpenBudget::Application.routes.draw do
   id = /[\w-]+/
   get ':id' => 'application#index', :constraints => {:id => id}
   get 'impressum/:id' => 'application#impressum', constraints: { id: id }
-  get 'data/:id/:file' => 'application#file', constraints: { id: id }
+  get 'data/:id/:file' => 'application#file', constraints: { id: id, file: /(xlsx|json)/ }
 
   get 'data/:id/:file' => 'application#proxy', :constraints => {:id => id, :file => /(data|cache)/}
 
