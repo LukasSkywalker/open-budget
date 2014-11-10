@@ -25,8 +25,11 @@ class ApplicationController < ActionController::Base
   end
 
   def file
-    ftype = params[:file]
-    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.' + ftype
+    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.json'
+  end
+
+  def source
+    send_file Dir.pwd + '/app/data/' + params[:id] + '/data.xlsx'
   end
 
   def index
