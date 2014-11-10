@@ -50,11 +50,12 @@ OpenBudget::Application.routes.draw do
   # just remember to delete public/index.html.
   root :to => 'application#index'
 
-  id = /[\w-]+/
-  get ':id' => 'application#index', :constraints => {:id => id}
   get 'impressum' => 'application#impressum'
   get 'data' => 'application#file'
   get 'source' => 'application#source'
+  id = /[\w-]+/
+  get ':id' => 'application#index', :constraints => {:id => id}
+  
 
   get 'data/:id/:file' => 'application#proxy', :constraints => {:id => id, :file => /(data|cache)/}
 
